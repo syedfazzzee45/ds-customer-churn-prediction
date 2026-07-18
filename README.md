@@ -132,15 +132,12 @@ Potential enhancements include:
 
 ## Repository Structure
 
-
+```text
 ds-customer-churn-prediction/
-│
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│
 ├── notebooks/
 │   └── 01_data_understanding.ipynb
-│
 ├── requirements.txt
-│
 └── README.md
+```
